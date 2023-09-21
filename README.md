@@ -12,12 +12,12 @@
 
 
 ## 📕 About Me
-I'm a student Of College...
+I'm a College Studnet...
 I Can Edit Source Files...
 
 
 ## 🛠 Skills
-HTML5,CSS,C&C++
+HTML5, CSS, C&C++
 
 ## Others
 
