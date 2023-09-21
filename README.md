@@ -20,7 +20,7 @@ HTML5,CSS,C&C++
 📫 How to reach me...
 
 🚩Instagram : https://instagram.com/itz_shaikho/
-🚩WhatsApp : wa.me/923184070915
+\n🚩WhatsApp : wa.me/923184070915
 
 ⚡️ Fun fact...
 
