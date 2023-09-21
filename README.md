@@ -21,16 +21,50 @@ HTML5,CSS,C&C++
 
 ## Others
 
-👩‍💻 I'm currently working on XLICON-MD
+- 👋 Hi, I’m Salman Ahmad
 
-🧠 I'm currently learning BASIC CODING
+-  👨🏻‍🦱 18 years old
 
-👯‍♀️ I'm looking to collaborate with other developers
+-  🗺 Currently living in Pakistan, Punjab, Lahore
 
-📫 How to reach me...
+- 👩‍💻 I'm currently working on XLICON-MD
+
+- 🧠 I'm currently learning BASIC CODING
+
+- 👯‍♀️ I'm looking to collaborate with other developers
+
+- 📫 How to reach me...
  
-🚩Instagram : https://instagram.com/itz_shaikho/
+- 🚩Instagram : https://instagram.com/itz_shaikho/
 
-⚡️ Fun fact...
+- ⚡️ Fun fact...
 
 Everyone thinks that i'm a Programmer ...But actually i can't even creata a simple website 😂
+
+---
+
+### :SALMAN: How To Reach Me :
+<p align="center">
+<a href="https://youtube.com/@s4salmanyt"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@s4salmanyt" /><br>
+<a href="http://Wa.me/923184070915">
+    <img src="https://img.shields.io/badge/Wa Pc-electric green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+  </a>
+<a href="https://chat.whatsapp.com/EjsQvJNcFGVCSfaBEIxZm2"><img src="https://img.shields.io/badge/Wa Gc 1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/IlXgZQKC7jy6IRluBdR6OU"><img src="https://img.shields.io/badge/Wa Gc 2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</p>
+
+---
+
+### :unicorn: My Stats :
+<p align="center"><a href="https://github.com/salmanytofficial/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a></p>
+<p align="center"><a href="https://komarev.com/ghpvc/?username=salmanytofficial&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=salmanytofficial&color=green&style=flat-square&label=Profile+View"></a>
+</p>
+<p align="center"><a href="https://github.com/salmanytofficial"><img src="https://github-readme-stats.vercel.app/api?username=DGXeon&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/salmanytofficial"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGXeon&theme=radical&layout=compact"></a></p>
+
+---
+
+### :unicorn: Repo Stats : 
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=salmanytofficial&repo=XLICON-MD&theme=radical)
+
+---
