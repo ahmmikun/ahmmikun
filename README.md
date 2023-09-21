@@ -56,11 +56,11 @@ Everyone thinks that i'm a Programmer ...But actually i can't even creata a simp
 ---
 
 ### :unicorn: My Stats :
-<p align="center"><a href="https://github.com/salmanytofficial/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a></p>
+<p align="center"><a href="https://github.com/salmanytofficial/followers"><img title="Followers" src="https://img.shields.io/github/followers/salmanytofficial?color=red&style=flat-square"></a></p>
 <p align="center"><a href="https://komarev.com/ghpvc/?username=salmanytofficial&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=salmanytofficial&color=green&style=flat-square&label=Profile+View"></a>
 </p>
-<p align="center"><a href="https://github.com/salmanytofficial"><img src="https://github-readme-stats.vercel.app/api?username=DGXeon&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/salmanytofficial"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGXeon&theme=radical&layout=compact"></a></p>
+<p align="center"><a href="https://github.com/salmanytofficial"><img src="https://github-readme-stats.vercel.app/api?username=salmanytofficial&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/salmanytofficial"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanytofficial&theme=radical&layout=compact"></a></p>
 
 ---
 
