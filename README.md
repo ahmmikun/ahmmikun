@@ -43,7 +43,7 @@ Everyone thinks that i'm a Programmer ...But actually i can't even creata a simp
 
 ---
 
-### :SALMAN: How To Reach Me :
+🔥 :SALMAN: How To Reach Me :
 <p align="center">
 <a href="https://youtube.com/@s4salmanyt"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@s4salmanyt" /><br>
 <a href="http://Wa.me/923184070915">
@@ -55,7 +55,7 @@ Everyone thinks that i'm a Programmer ...But actually i can't even creata a simp
 
 ---
 
-### :unicorn: My Stats :
+🔥 :unicorn: My Stats :
 <p align="center"><a href="https://github.com/salmanytofficial/followers"><img title="Followers" src="https://img.shields.io/github/followers/salmanytofficial?color=red&style=flat-square"></a></p>
 <p align="center"><a href="https://komarev.com/ghpvc/?username=salmanytofficial&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=salmanytofficial&color=green&style=flat-square&label=Profile+View"></a>
 </p>
@@ -64,7 +64,7 @@ Everyone thinks that i'm a Programmer ...But actually i can't even creata a simp
 
 ---
 
-### :unicorn: Repo Stats : 
+🔥 :unicorn: Repo Stats : 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=salmanytofficial&repo=XLICON-MD&theme=radical)
 
 ---
