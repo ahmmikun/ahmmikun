@@ -3,7 +3,6 @@
 <p align="center">  
   <a href="https://github.com/salmanytofficial">
     <img alt="Salman Ahmad" height="300" src="https://avatars.githubusercontent.com/u/140977479?v=4">
-    <h1 align="center">Hy 👋 SALMAN Here</h1>
   </a>
 </p>
 <p align="center">
