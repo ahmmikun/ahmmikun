@@ -18,9 +18,8 @@ HTML5,CSS,C&C++
 👯‍♀️ I'm looking to collaborate with other developers
 
 📫 How to reach me...
-
+ 
 🚩Instagram : https://instagram.com/itz_shaikho/
-\n🚩WhatsApp : wa.me/923184070915
 
 ⚡️ Fun fact...
 
