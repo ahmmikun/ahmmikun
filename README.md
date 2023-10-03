@@ -49,8 +49,8 @@ Everyone thinks that i'm a Programmer ...But actually i can't even creata a simp
 <a href="http://Wa.me/923184070915">
     <img src="https://img.shields.io/badge/Wa Pc-electric green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
-<a href="https://chat.whatsapp.com/EjsQvJNcFGVCSfaBEIxZm2"><img src="https://img.shields.io/badge/Wa Gc 1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/IlXgZQKC7jy6IRluBdR6OU"><img src="https://img.shields.io/badge/Wa Gc 2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk"><img src="https://img.shields.io/badge/Wa Gc 1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/BlvC2aKImgU1n3g774Vm5c"><img src="https://img.shields.io/badge/Wa Gc 2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 ---
