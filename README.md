@@ -79,7 +79,8 @@ Everyone thinks that i'm a Programmer ...But actually i can't even creata a simp
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-  ![Metrics](https://metrics.lecoq.io/salmanytofficial?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FKarachi)
+  ![Metrics]
+  (https://metrics.lecoq.io/salmanytofficial?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FKarachi)
 
 </details> 
 
