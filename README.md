@@ -13,11 +13,11 @@
 
 ## 📕 About Me
 I'm a College Student...
+CS Student...
 I Can Edit Source Files...
 
-
 ## 🛠 Skills
-HTML5, CSS, C&C++
+C&C++, HTML5, CSS, JAVASCRIPT
 
 ## Others
 
@@ -29,7 +29,7 @@ HTML5, CSS, C&C++
 
 - 👩‍💻 I'm currently working on XLICON-MD
 
-- 🧠 I'm currently learning BASIC CODING
+- 🧠 I'm currently learning BASIC CODING and PROGRAMMING
 
 - 👯‍♀️ I'm looking to collaborate with other developers
 
