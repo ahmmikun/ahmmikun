@@ -27,7 +27,7 @@ C&C++, HTML5, CSS, JAVASCRIPT
 
 -  🗺 Currently living in Pakistan, Punjab, Lahore
 
-- 👩‍💻 I'm currently working on XLICON-MD
+- 👩‍💻 I'm currently working on XLICON-MD BOTS
 
 - 🧠 I'm currently learning BASIC CODING and PROGRAMMING
 
@@ -65,7 +65,7 @@ Everyone thinks that i'm a Programmer ...But actually i can't even creata a simp
 ---
 
 ### 🔥: Repo Stats : 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=salmanytofficial&repo=XLICON-MD&theme=radical)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=salmanytofficial&repo=XLICON-V3-MD&theme=radical)
 
 ---
 
