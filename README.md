@@ -54,7 +54,7 @@
 <a href="http://Wa.me/923184070915">
     <img src="https://img.shields.io/badge/Wa Pc-electric green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
-<a href="https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk"><img src="https://img.shields.io/badge/Wa Gc 1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/KIdMzyvnjju4GIuJhATpm4"><img src="https://img.shields.io/badge/Wa Gc 1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/BlvC2aKImgU1n3g774Vm5c"><img src="https://img.shields.io/badge/Wa Gc 2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
   
