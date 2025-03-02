@@ -70,12 +70,14 @@ C&C++, HTML5, CSS, JAVASCRIPT
 <p align="center"><a href="https://github.com/salmanytofficial"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanytofficial&theme=radical&layout=compact"></a></p>
 <p align="center"><a href="https://github.com/salmanytofficial"><img src="https://streak-stats.demolab.com/?user=salmanytofficial&theme=radical"></a></p>
 
+ ![Animation](https://raw.githubusercontent.com/salmanytofficial/salmanytofficial/output/github-contribution-grid-snake-dark.svg)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=salmanytofficial&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ### 📊 Repo Stats : 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=salmanytofficial&repo=XLICON-V3-MD&theme=radical)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=salmanytofficial&repo=XLICON-V2-MD&theme=radical)
 
 ---
 
@@ -106,5 +108,5 @@ C&C++, HTML5, CSS, JAVASCRIPT
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ahmmikun) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/ahmmikun) 
 
 
-  ![Animation](https://raw.githubusercontent.com/salmanytofficial/salmanytofficial/output/github-contribution-grid-snake-dark.svg)
+ 
 
