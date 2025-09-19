@@ -2,7 +2,7 @@
 
 <p align="center">  
   <a href="https://github.com/ahmmikun">
-    <img alt="Salman Ahmad" height="220" src="https://avatars.githubusercontent.com/u/140977479?v=4">
+    <img src="https://i.pinimg.com/originals/63/bf/a2/63bfa20b6e5658bff2c8236b52933261.gif" alt="Profile GIF" height="500">
   </a>
 </p>  
 
