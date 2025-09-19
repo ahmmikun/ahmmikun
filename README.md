@@ -1,13 +1,13 @@
 # Hi 👋, I'm SALMAN AHMAD!
 
 <p align="center">  
-  <a href="https://github.com/salmanytofficial">
+  <a href="https://github.com/ahmmikun">
     <img alt="Salman Ahmad" height="300" src="https://avatars.githubusercontent.com/u/140977479?v=4">
   </a>
 </p>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/salmanytofficial/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/ahmmikun/count.svg" />
 </p>
 
 
@@ -27,7 +27,7 @@ C&C++, HTML5, CSS, JAVASCRIPT
 
 -  🗺 Currently living in **Pakistan, Punjab, Lahore**
 
-- 🔭 I’m currently working on [XLICON-MD BOTS](https://github.com/salmanytofficial/XLICON-V3-MD)
+- 🔭 I’m currently working on [XLICON-MD BOTS](https://github.com/ahmmikun/XLICON-V3-MD)
 
 - 🧠 I’m currently learning **BASIC CODING and PROGRAMMING**
 
@@ -63,35 +63,35 @@ C&C++, HTML5, CSS, JAVASCRIPT
 
 
 ### 📈 My Stats :
-<p align="center"><a href="https://github.com/salmanytofficial/followers"><img title="Followers" src="https://img.shields.io/github/followers/salmanytofficial?color=red&style=flat-square"></a></p>
-<p align="center"><a href="https://komarev.com/ghpvc/?username=salmanytofficial&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=salmanytofficial&color=green&style=flat-square&label=Profile+View"></a>
+<p align="center"><a href="https://github.com/ahmmikun/followers"><img title="Followers" src="https://img.shields.io/github/followers/ahmmikun?color=red&style=flat-square"></a></p>
+<p align="center"><a href="https://komarev.com/ghpvc/?username=ahmmikun&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=ahmmikun&color=green&style=flat-square&label=Profile+View"></a>
 </p>
-<p align="center"><a href="https://github.com/salmanytofficial"><img src="https://github-readme-stats.vercel.app/api?username=salmanytofficial&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/salmanytofficial"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanytofficial&theme=radical&layout=compact"></a></p>
-<p align="center"><a href="https://github.com/salmanytofficial"><img src="https://streak-stats.demolab.com/?user=salmanytofficial&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/ahmmikun"><img src="https://github-readme-stats.vercel.app/api?username=ahmmikun&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/ahmmikun"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmmikun&theme=radical&layout=compact"></a></p>
+<p align="center"><a href="https://github.com/ahmmikun"><img src="https://streak-stats.demolab.com/?user=ahmmikun&theme=radical"></a></p>
 
- ![Animation](https://raw.githubusercontent.com/salmanytofficial/salmanytofficial/output/github-contribution-grid-snake-dark.svg)
+ ![Animation](https://raw.githubusercontent.com/ahmmikun/ahmmikun/output/github-contribution-grid-snake-dark.svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=salmanytofficial&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmmikun&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ### 📊 Repo Stats : 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=salmanytofficial&repo=XLICON-V2-MD&theme=radical)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=ahmmikun&repo=XLICON-V2-MD&theme=radical)
 
 ---
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=salmanytofficial)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=ahmmikun)
 
 </details>
 
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-  ![Metrics](https://metrics.lecoq.io/salmanytofficial?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FKarachi)
+  ![Metrics](https://metrics.lecoq.io/ahmmikun?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FKarachi)
 
 </details> 
 
@@ -101,7 +101,7 @@ C&C++, HTML5, CSS, JAVASCRIPT
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=salmanytofficial&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ahmmikun&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 
 ## 💰 You can help me by Donating
