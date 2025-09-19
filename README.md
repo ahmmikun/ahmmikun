@@ -62,23 +62,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmmikun&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmmikun&theme=radical&layout=compact" height="150"/>
-</p>  
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ahmmikun&theme=radical" height="150"/>
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmmikun&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true"/>
-</p>  
-
----
-
 ## 🌐 Connect With Me  
 
 <p align="center">
@@ -92,10 +75,26 @@
 
 ---
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmmikun&show_icons=true&title_color=00A3FF&icon_color=00A3FF&text_color=FFFFFF&bg_color=0D1117,001C6C,000000" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmmikun&title_color=00A3FF&text_color=FFFFFF&bg_color=0D1117,001C6C,000000&layout=compact" height="150"/>
+</p>  
+
+
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmmikun&bg_color=0D1117&color=00A3FF&line=00A3FF&point=FFFFFF&area=true&hide_border=true"/>
+</p>  
+
+---
+
 ### 📊 Repo Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmmikun&repo=XLICON-V2-MD&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmmikun&repo=XLICON-V2-MD&title_color=00A3FF&icon_color=00A3FF&text_color=FFFFFF&bg_color=0D1117,001C6C,000000"/>
 </p>  
+ 
 
 ---
 
@@ -115,7 +114,7 @@
 
 ### ✍️ Random Dev Quote  
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=001C6C&border_color=001C6C&theme=dark"/>
 </p>  
 
 ### 🔝 Top Contributed Repo  
