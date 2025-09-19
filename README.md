@@ -2,7 +2,7 @@
 
 <p align="center">  
   <a href="https://github.com/ahmmikun">
-    <img src="https://i.pinimg.com/originals/63/bf/a2/63bfa20b6e5658bff2c8236b52933261.gif" alt="Profile GIF" height="500">
+    <img src="https://i.pinimg.com/originals/63/bf/a2/63bfa20b6e5658bff2c8236b52933261.gif" alt="Profile GIF" height="300">
   </a>
 </p>  
 
@@ -17,7 +17,7 @@
 ---
 
 ## 📌 About Me  
-- 🎓 CS student, passionate about **software development** & **automation**  
+- 🎓 CS student, passionate about **Coding** & **automation**  
 - 🔭 Currently working on [XLICON-MD BOTS](https://github.com/ahmmikun/XLICON-V3-MD)  
 - 🌱 Learning **Web Development & Backend Integration**  
 - 🤝 Open to collaborate on **WhatsApp Bots & Open Source Projects**  
