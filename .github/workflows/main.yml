@@ -11,33 +11,28 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
-      - name: Checkout repository using PAT
+      - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.SNAKE_PAT }}
-          fetch-depth: 0
+          token: ${{ secrets.SNAKE_PAT }} # Use PAT explicitly
 
-      - name: Generate GitHub Contribution Snake (custom colors)
-        uses: Platane/snk@v3
+      - name: Generate GitHub Contribution Snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          color_snake: "#00A3FF"
-          color_dots: "#87CEFA"
-          color_bg: "#0D1117"
-          color_border: "#001C6C"
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.SNAKE_PAT }}
+          GITHUB_TOKEN: ${{ secrets.SNAKE_PAT }} # Use PAT
 
-      - name: Push to output branch
+      - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          keep_history: true
         env:
-          GITHUB_TOKEN: ${{ secrets.SNAKE_PAT }}
+          GITHUB_TOKEN: ${{ secrets.SNAKE_PAT }} # Use PAT
