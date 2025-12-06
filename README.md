@@ -82,8 +82,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmmikun&show_icons=true&title_color=00A3FF&icon_color=00A3FF&text_color=FFFFFF&bg_color=0D1117,001C6C,000000" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmmikun&title_color=00A3FF&text_color=FFFFFF&bg_color=0D1117,001C6C,000000&layout=compact" height="150"/>
+  <img src="https://github-readme-stats-ten-neon-28.vercel.app//api?username=ahmmikun&show_icons=true&title_color=00A3FF&icon_color=00A3FF&text_color=FFFFFF&bg_color=0D1117,001C6C,000000" height="150"/>
+  <img src="https://github-readme-stats-ten-neon-28.vercel.app//api/top-langs/?username=ahmmikun&title_color=00A3FF&text_color=FFFFFF&bg_color=0D1117,001C6C,000000&layout=compact" height="150"/>
 </p>  
 
 
@@ -96,7 +96,7 @@
 
 ### 📊 Repo Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmmikun&repo=XLICON-V2-MD&title_color=00A3FF&icon_color=00A3FF&text_color=FFFFFF&bg_color=0D1117,001C6C,000000"/>
+  <img src="https://github-readme-stats-ten-neon-28.vercel.app//api/pin/?username=ahmmikun&repo=XLICON-V2-MD&title_color=00A3FF&icon_color=00A3FF&text_color=FFFFFF&bg_color=0D1117,001C6C,000000"/>
 </p>  
  
 
