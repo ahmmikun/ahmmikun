@@ -82,6 +82,14 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
+  <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=ahmmikun&theme=%7B%22backgroundColor%22%3A%22%230D1117%22%2C%22textColor%22%3A%22%23FFFFFF%22%2C%22accentColor%22%3A%22%2300A3FF%22%2C%22borderColor%22%3A%22%23161B22%22%2C%22waterColor%22%3A%22%2300A3FF%22%2C%22streakColor%22%3A%22%2300A3FF%22%7D&t=1" height="300" width="650"/>
+</p>
+
+
+
+
+
+<p align="center">
   <img src="https://github-readme-stats-ten-neon-28.vercel.app//api?username=ahmmikun&show_icons=true&title_color=00A3FF&icon_color=00A3FF&text_color=FFFFFF&bg_color=0D1117,001C6C,000000" height="150"/>
   <img src="https://github-readme-stats-ten-neon-28.vercel.app//api/top-langs/?username=ahmmikun&title_color=00A3FF&text_color=FFFFFF&bg_color=0D1117,001C6C,000000&layout=compact" height="150"/>
 </p>  
@@ -104,7 +112,7 @@
 
 <details>
   <summary>🏆 <b>GitHub Awards</b></summary><br/>
-  <p align="center">
+   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ahmmikun"/>
   </p>
 </details>  
