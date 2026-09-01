@@ -109,15 +109,6 @@
   <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=ahmmikun&theme=%7B%22backgroundColor%22%3A%22%230D1117%22%2C%22textColor%22%3A%22%23FFFFFF%22%2C%22accentColor%22%3A%22%2300A3FF%22%2C%22borderColor%22%3A%22%23161B22%22%2C%22waterColor%22%3A%22%2300A3FF%22%2C%22streakColor%22%3A%22%2300A3FF%22%7D&t=1" width="650" alt="GitHub Streak Card" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-ten-neon-28.vercel.app/api?username=ahmmikun&show_icons=true&title_color=00A3FF&icon_color=00A3FF&text_color=FFFFFF&bg_color=0D1117&border_color=161B22&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-ten-neon-28.vercel.app/api/top-langs/?username=ahmmikun&title_color=00A3FF&text_color=FFFFFF&bg_color=0D1117&border_color=161B22&layout=compact&langs_count=8" height="165" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmmikun&bg_color=0D1117&color=00A3FF&line=00A3FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
 ---
 
 ## 🐍 Contribution Snake
@@ -130,24 +121,7 @@
 
 ## 📂 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/ahmmikun/bijlitrack">
-    <img src="https://github-readme-stats-ten-neon-28.vercel.app/api/pin/?username=ahmmikun&repo=bijlitrack&title_color=00A3FF&icon_color=00A3FF&text_color=FFFFFF&bg_color=0D1117&border_color=161B22" alt="BijliTrack" />
-  </a>
-  <a href="https://github.com/ahmmikun/XLICON-V2-MD">
-    <img src="https://github-readme-stats-ten-neon-28.vercel.app/api/pin/?username=ahmmikun&repo=XLICON-V2-MD&title_color=00A3FF&icon_color=00A3FF&text_color=FFFFFF&bg_color=0D1117&border_color=161B22" alt="XLICON-V2-MD" />
-  </a>
-</p>
-
----
-
-<details>
-<summary>🏆 <b>GitHub Trophies</b></summary>
-<br />
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmmikun&theme=darkhub&no-frame=true&column=7" alt="Trophies" />
-</p>
-</details>
+Will Add Soon
 
 ---
 
@@ -167,9 +141,7 @@
 
 ## 🔝 Top Contributed Repo
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ahmmikun&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0D1117&border_color=161B22" alt="Top Contributed Repos" />
-</p>
+Will Add Soon
 
 ---
 
